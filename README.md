@@ -1,6 +1,6 @@
 # Every Day Effort
 
-A daily journal that keeps git skills strong and logs learning actions
+A daily journal that keeps git and coding skills strong and logs learning actions
 
 # Make a push to github every day for 10 Weeks
 
