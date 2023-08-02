@@ -89,6 +89,44 @@ function matrixMultiplication(matrix1, matrix2) {
 
 Track notes and progress here
 
+Basic samples:
+
+```
+for (let i = 0; i < 10; i++) {
+  console.log(i);
+}
+```
+
+
+```
+const str = "Hello";
+for (let i = 0; i < str.length; i++) {
+  console.log(str[i]);
+}
+```
+
+
+More samples:
+
+```
+const mySet = new Set([1, 2, 3, 4, 5]);
+
+for (const item of mySet) {
+  console.log(item);
+}
+```
+
+```
+outerLoop: for (let i = 0; i < 3; i++) {
+  innerLoop: for (let j = 0; j < 3; j++) {
+    console.log(i, j);
+    if (i === 1 && j === 1) {
+      break outerLoop;
+    }
+  }
+}
+```
+
 ## Write 100 conditional statements or more in 10 Weeks
 
 Track notes and progress here
