@@ -131,6 +131,38 @@ outerLoop: for (let i = 0; i < 3; i++) {
 
 Track notes and progress here
 
+Samples:
+
+```
+const x = 10;
+if (x > 5) {
+  console.log("x is greater than 5");
+}
+```
+
+```
+const age = 25;
+const status = age >= 18 ? "Adult" : "Minor";
+console.log(status);
+```
+
+```
+const day = "Wednesday";
+switch (day) {
+  case "Monday":
+    console.log("It's Monday!");
+    break;
+  case "Tuesday":
+    console.log("It's Tuesday!");
+    break;
+  case "Wednesday":
+    console.log("It's Wednesday!");
+    break;
+  default:
+    console.log("It's another day.");
+}
+```
+
 ## Write 100 mocha tests or more in 10 Weeks
 
 Track notes and progress here
